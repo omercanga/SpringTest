@@ -9,6 +9,7 @@ public int sayiBul() {
 			
 		}
 		return 0;//FIX burası düzeltilecek
+		//testt
 
 	}
 
