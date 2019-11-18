@@ -4,6 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import deneme.Deneme;
+import deneme.Konus;
 
 
 
@@ -22,7 +23,14 @@ public class App
 		
 		Deneme dene=new Deneme();
 		System.out.println(dene.sayiBul());
-		//TODO:burası yapıllacak
+		//TODO:burası yapılacak
+		
+		Konus cont=new Konus();
+		
+		System.out.println(cont.testSelam());
+	
+	
+		
 	
 	}
 	
