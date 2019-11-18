@@ -11,6 +11,8 @@ public int sayiBul() {
 		}
 		return 0;//FIX burası düzeltilecek
 		//testt
+		//teste bunuda ekle
+		//FIX
 
 	}
 
