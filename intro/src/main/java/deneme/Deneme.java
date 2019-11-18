@@ -8,7 +8,7 @@ public int sayiBul() {
 			System.out.println("Sayılar Toplamı:" + i);
 			
 		}
-		return 0;
+		return 0;//FIX burası düzeltilecek
 
 	}
 

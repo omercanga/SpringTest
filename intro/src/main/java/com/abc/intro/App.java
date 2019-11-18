@@ -22,7 +22,7 @@ public class App
 		
 		Deneme dene=new Deneme();
 		System.out.println(dene.sayiBul());
-		//TODO:burası düzeltilecek.
+		//TODO:burası yapıllacak
 	
 	}
 	
